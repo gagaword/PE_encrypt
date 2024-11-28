@@ -5,3 +5,7 @@
 **Shell**是壳子代码
 
 **Shell_Load**是加载壳代码
+
+**main**分支是`shell`代码
+
+`master`分支是`shell_loader`代码
